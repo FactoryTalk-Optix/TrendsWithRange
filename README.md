@@ -2,8 +2,6 @@
 
 This demo shows the new Trend capabilities (inspection and range), with the possibility of extracting some statistical data from the ranges
 
-An IDE version greater than 1.3.0.479 is mandatory to open the project
-
 ## Disclaimer
 
 Rockwell Automation maintains these repositories as a convenience to you and other users. Although Rockwell Automation reserves the right at any time and for any reason to refuse access to edit or remove content from this Repository, you acknowledge and agree to accept sole responsibility and liability for any Repository content posted, transmitted, downloaded, or used by you. Rockwell Automation has no obligation to monitor or update Repository content
